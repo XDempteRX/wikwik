@@ -4,4 +4,4 @@ cd wikwik
 
 python3 sakit.py
 
-Jika Gak Tahap WikWik Dan Ah Ah Jangan Paksa
+Jika Gak Tahan WikWik Dan Ah Ah Jangan Paksa
